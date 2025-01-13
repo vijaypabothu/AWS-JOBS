@@ -1,4 +1,4 @@
-# Job Description:-Data Architect
+# Job Description:Data Architect
 
 - Develop and evolve the enterprise wide data strategy to support delivery of corporate objectives
 - Be a key stakeholder and advisor in all new strategic data initiatives and ensure alignment to the enterprise wide data strategy

@@ -1,4 +1,4 @@
-# Title: AWS Dig Data Solution Architect
+# Title: AWS Big Data Solution Architect
 # Location: Pune/Mumbai/Bangalore/Noida
 # Educational Background : Masters/Professional Degree
 

@@ -41,19 +41,29 @@ Oversee the security architecture of AI and Big Data solutions, ensuring complia
 
 ## Required Skills and Qualifications:
 
-18+ years of experience in software architecture, with a focus on AI, ML, Big Data, and cloud-based solutions.
-Expertise in Generative AI (Gen AI) technologies, Large Language Models (LLM), and NLP.
-Extensive experience in Big Data technologies (e.g., Hadoop, Spark, Kafka, etc.) and data architecture.
-Strong knowledge of cloud platforms (AWS, GCP, Azure) and microservices architecture.
-Experience with deep learning frameworks (TensorFlow, PyTorch, etc.).
-Proven track record of delivering large-scale, high-performance AI and big data solutions.
-Excellent understanding of data governance, security, and compliance.
-Exceptional leadership, communication, and stakeholder management skills.
-Ability to mentor and lead technical teams, fostering innovation and technical excellence.
+- 18+ years of experience in software architecture, with a focus on AI, ML, Big Data, and cloud-based solutions.
+  
+- Expertise in Generative AI (Gen AI) technologies, Large Language Models (LLM), and NLP.
+  
+- Extensive experience in Big Data technologies (e.g., Hadoop, Spark, Kafka, etc.) and data architecture.
+  
+- Strong knowledge of cloud platforms (AWS, GCP, Azure) and microservices architecture.
+
+- Experience with deep learning frameworks (TensorFlow, PyTorch, etc.).
+  
+- Proven track record of delivering large-scale, high-performance AI and big data solutions.
+  
+- Excellent understanding of data governance, security, and compliance.
+  
+- Exceptional leadership, communication, and stakeholder management skills.
+  
+- Ability to mentor and lead technical teams, fostering innovation and technical excellence.
 
 
 ## Preferred Qualifications:
 
-Experience working in industries such as finance, healthcare, retail, or manufacturing.
-Certifications in AI/ML, Big Data, or Cloud Architecture (e.g., AWS Certified Solutions Architect, Google Professional Data Engineer).
-Experience with Edge AI or AI/ML Ops is a plus.
+- Experience working in industries such as finance, healthcare, retail, or manufacturing.
+  
+- Certifications in AI/ML, Big Data, or Cloud Architecture (e.g., AWS Certified Solutions Architect, Google Professional Data Engineer).
+  
+- Experience with Edge AI or AI/ML Ops is a plus.

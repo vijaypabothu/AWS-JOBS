@@ -17,3 +17,44 @@ $17/hr to $26/hr
 
 Grace Brzozowski
 Lead Recruiter at Insight Global
+
+
+Vijaya  Kumar
+
+I noticed you are open to work and we are looking for a Senior AWS Data Engineer to work REMOTE anywhere in India for our top healthcare client working on cutting edge products. This is an exciting project with modernized tech. We also offer top end benefits. 
+
+If you are interested please send your resume and i will send you a text on whatsapp to chat immediately. 
+
+Required Qualifications:
+7-10+ years’ data engineering experience
+AWS data lake architecture 
+Glue or DBT
+RedShift or Snowflake 
+SQS Development
+Event Bridge Scheduler 
+Innovative and creative 
+
+Bonus Skills:
+AWS data migration services 
+Hudi database
+AWS Aurora MySQL database management
+Python or Scala
+
+Responsibilities: 
+Work on a product development team responsible for data lakes and architecture of a healthcare application in an AWS environment
+Provide innovative AWS data lake architecture solutions and recommendations 
+Setup, configure, and troubleshoot AWS data migration services
+Catalog, setup, configure, and troubleshoot Glue or DBT
+Perform heavy ETL work
+Create tables and manage a Hudi database
+Provide SQS development
+Work extensively with Event Bridge Schedule
+Understand creation of tables/views/MV’s, and provide performance and tuning within RedShfit 
+Work within Aurora MySQL database management:
+Develop by writing Stored Procedures 
+Setup Read replication 
+Troubleshoot and monitor AWS resources for performance improvement
+
+Dylan Mather
+Sr. Hiring Partner at Insight Global
+dylan.mather@insightglobal.com

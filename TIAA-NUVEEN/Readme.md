@@ -7,13 +7,13 @@ Please expect Zoom video invite from Manisha for Round 1 interview  tomorrow 19t
 
 Nuveen is the investment management arm of TIAA. It is one of the largest global asset managers with specialist knowledge across a wide array of asset classes, including fixed income, equities, and alternatives. Nuveen is driven not only by the independent investment processes across the firm, but also the insights, risk management, analytics and other tools and resources a truly world-class platform provides. As a global asset manager, our mission is to work in partnership with our clients to create outcome-focused solutions to help them secure their financial future. For more information about the firm please visit our website at www.Nuveen.com
 
-Overview of the Role
+## Overview of the Role
 
 Nuveen is seeking an AWS Solution Architecture, reporting to the Global Platform Lead for Investment Technology, the role is responsible for driving data engineering initiatives within Data office. Design and implement scalable data infrastructure for analytics and machine learning purposes.
 
 In building out the strategy and setting up a world class engineering delivery capability, the person will be a technology change leader within the industry and the organization and will drive the steps to build our agile and best in class teams across the globe. Special focus will be on global applications and data solutions, to develop industry leading experiences and technology products for our teams and our clients, as well as aligning these to enterprise services.
 
-Key Responsibilities of the Role
+## Key Responsibilities of the Role
 
 Tech and Data
 
@@ -54,19 +54,29 @@ Decisive and operates with a sense of urgency
 Agile proficient
  
 
-Enhanced Technical Skills required:
+## Enhanced Technical Skills required:
 
-Advanced AWS service Proficiency: In-depth knowledge and hands-on experience with a wide range of AWS services, including but not limited to AWS Data Catalog, AWS, Glue, AWS Glue Data Quality, AWS Glue Databrew, AWS Glue Crawler, AWS Athena, AWS Lake Formation, AWS S3, AWS DynamoDB, Lambda, SNS, SQS, EventBridge, RDS, AWS IAM, AWS MWAA. Familiarity with AWS Best practices for security and scalability
-Data Lake Architecture and Management: Expertise in designing, building and managing scalable and secure data lake house on AWS, understanding various data ingestion patterns, cataloguing, storage, and efficient retrieval mechanisms.
-Data Processing and Analytics: Proficiency in PySpark, Dynamic DataFrame, and other big data processing technologies. Experience with AWS Analytics service like AWS Athena, AWS Kinesis, and AWS EMR.
-Data Pipeline Workflow Management: Strong skills in data pipeline workflow orchestration and management using AWS Managed Workflow for Apache Aireflow (MWAA) and Airflow Dags. Ability to design, implement, and optimize complex data pipelines using Dag Factory.
-Containerization and Orchestration: Experience with containerization technologies like Docker and orchestration tools such as AWS EKS or ECS.
-Data Security and Compliance: Knowledge of data security, encryption, and compliance standards relevant to financial services.
-Database Management: Proficiency in both SQL and NoSQL databases, understanding of database optimization and management in an AWS environment.
-Scripting and Programming: Strong programming skills, particular in Python. Familiarity with other OO languages like Java or Scala is a plus.
-Data Governance: Experience in establishing data governance and access control and best practices in an AWS environment.
-DevOps and CI/CD: Knowledge of DevOps principles and practices, experience with CI/CD pipeline with CloudBees, and Jenkins.
-Monitoring and Optimization: Experience with AWS monitoring tools like AWS CloudWatch, AWS X-Ray, and AWS CloudTrail. Ability to optimize AWS resource usage for cost and performance
+- Advanced AWS service Proficiency: In-depth knowledge and hands-on experience with a wide range of AWS services, including but not limited to AWS Data Catalog, AWS, Glue, AWS Glue Data Quality, AWS Glue Databrew, AWS Glue Crawler, AWS Athena, AWS Lake Formation, AWS S3, AWS DynamoDB, Lambda, SNS, SQS, EventBridge, RDS, AWS IAM, AWS MWAA. Familiarity with AWS Best practices for security and scalability
+  
+- Data Lake Architecture and Management: Expertise in designing, building and managing scalable and secure data lake house on AWS, understanding various data ingestion patterns, cataloguing, storage, and efficient retrieval mechanisms.
+  
+- Data Processing and Analytics: Proficiency in PySpark, Dynamic DataFrame, and other big data processing technologies. Experience with AWS Analytics service like AWS Athena, AWS Kinesis, and AWS EMR.
+  
+- Data Pipeline Workflow Management: Strong skills in data pipeline workflow orchestration and management using AWS Managed Workflow for Apache Aireflow (MWAA) and Airflow Dags. Ability to design, implement, and optimize complex data pipelines using Dag Factory.
+  
+- Containerization and Orchestration: Experience with containerization technologies like Docker and orchestration tools such as AWS EKS or ECS.
+  
+- Data Security and Compliance: Knowledge of data security, encryption, and compliance standards relevant to financial services.
+  
+- Database Management: Proficiency in both SQL and NoSQL databases, understanding of database optimization and management in an AWS environment.
+  
+- Scripting and Programming: Strong programming skills, particular in Python. Familiarity with other OO languages like Java or Scala is a plus.
+  
+- Data Governance: Experience in establishing data governance and access control and best practices in an AWS environment.
+  
+- DevOps and CI/CD: Knowledge of DevOps principles and practices, experience with CI/CD pipeline with CloudBees, and Jenkins.
+  
+- Monitoring and Optimization: Experience with AWS monitoring tools like AWS CloudWatch, AWS X-Ray, and AWS CloudTrail. Ability to optimize AWS resource usage for cost and performance
  
 
  

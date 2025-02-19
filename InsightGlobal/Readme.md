@@ -59,3 +59,20 @@ Troubleshoot and monitor AWS resources for performance improvement
 Dylan Mather
 Sr. Hiring Partner at Insight Global
 dylan.mather@insightglobal.com
+
+*************************************************************************************************************************************************
+
+Sr. Data Engineer– INTL India
+
+Boston Consulting Group
+
+Rate: 36 LAKH
+
+
+-At least 8 years of experience as a Data Engineer -Proficient in ETL processes and data integration tools/frameworks, including AWS Glue, Lambda, S3, and Step Functions, with the ability to extract and transform data from multiple sources. -Skilled in interpreting API documentation to gather requirements and design effective data solutions, including automation of data extraction using RESTful APIs. -Strong Python and SQL coding skills, with experience in cloud-based data warehousing solutions; familiarity with Snowflake is a plus. -Hands-on experience in data analytics, including data mining, cleansing. -Adept at troubleshooting and resolving data pipeline issues using strong analytical and problem-solving skills. -Excellent communication skills, ability to collaborate with stakeholders, including business teams, product owners, and data scientists, to translate requirements into scalable and effective data solutions.
+
+Job Description
+
+Insight Global is sourcing for a Sr. Data Engineer to join a global consulting firm assisting an internal Data Lake project. This role is crucial in building out a new portfolio focusing on providing a consolidated effort for GenAI data and GenAI programs. This position will be focused on engineering three critical areas-1. Structured Data, 2. Unstructured Data (SharePoint, PowerPoint, external data, etc.), 3. Data Engineering for API's. As the Sr. Data Engineer, you define architecture and design for development, evaluation, and transformation of our data foundations. Expertise in AWS cloud technologies for designing, building, and maintaining Python-based data engineering pipelines that seamlessly integrate structured and unstructured data. This position will be remote but must sit in India, ability to go onsite occasionally is a plus.
+
+ 

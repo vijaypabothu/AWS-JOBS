@@ -75,4 +75,32 @@ Job Description
 
 Insight Global is sourcing for a Sr. Data Engineer to join a global consulting firm assisting an internal Data Lake project. This role is crucial in building out a new portfolio focusing on providing a consolidated effort for GenAI data and GenAI programs. This position will be focused on engineering three critical areas-1. Structured Data, 2. Unstructured Data (SharePoint, PowerPoint, external data, etc.), 3. Data Engineering for API's. As the Sr. Data Engineer, you define architecture and design for development, evaluation, and transformation of our data foundations. Expertise in AWS cloud technologies for designing, building, and maintaining Python-based data engineering pipelines that seamlessly integrate structured and unstructured data. This position will be remote but must sit in India, ability to go onsite occasionally is a plus.
 
- 
+ ________________________________________________________________________________
+
+Microsoft Teams Need help?
+
+Join the meeting now
+
+Meeting ID: 238 427 908 342
+
+Passcode: zA7i2626
+
+Dial in by phone
+
++1 470-705-2220,,93612171# United States, Atlanta
+
+Find a local number
+
+Phone conference ID: 936 121 71#
+
+Join on a video conferencing device
+
+Tenant key: everyonematters@m.webex.com
+
+Video ID: 117 358 148 6
+
+More info
+
+For organizers: Meeting options | Reset dial-in PIN
+
+________________________________________________________________________________
